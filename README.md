@@ -18,7 +18,7 @@ Este repositorio contiene el código fuente de un servicio de monitorización de
 ## Stack Tecnológico
 
 * **Lenguaje:** C++17
-* **Base de Datos:** MySQL 8.0
+* **Base de Datos:** MySQL
 * **Librerías Principales:**
     * **Crow C++:** Micro-framework para el servidor HTTP y el endpoint REST.
     * **MySQL Connector/C++:** Librería oficial para la conexión con MySQL (versión 1.1.12 a través de los repositorios de Ubuntu 22.04).
