@@ -1,0 +1,1515 @@
+{"level":"INFO","message":"Starting monitoring service...","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Performing initial database connection...","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Conexión exitosa a MySQL.","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Initial connection successful.","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Worker thread started.","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:14:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:14:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:14:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:14:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:14:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:14:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:14:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:14:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:14:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:14:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:14:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:14:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:14:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:14:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:14:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:14:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:15:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:15:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:15:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:15:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:15:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:15:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:15:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:15:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:15:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:15:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:15:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:15:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:15:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:15:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:15:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:15:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:15:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:15:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:15:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:15:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:15:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:15:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:15:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:15:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:15:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:15:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:15:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:15:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:15:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:15:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:16:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:16:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:16:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:16:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:16:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:16:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:16:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:16:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:16:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:16:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:16:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:16:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:16:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:16:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:16:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:16:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:16:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:16:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:16:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:16:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:16:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:16:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:16:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:16:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:16:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:16:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:16:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:16:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:16:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:16:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:17:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:17:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:17:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:17:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:17:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:17:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:17:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:17:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:17:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:17:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:17:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:17:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:17:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:17:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:17:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:17:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:17:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:17:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:17:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:17:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:17:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:17:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:17:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:17:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:17:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:17:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:17:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:17:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:17:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:17:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:18:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:18:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:18:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:18:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:18:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:18:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:18:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:18:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:18:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:18:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:18:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:18:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:18:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:18:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:18:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:18:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:18:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:18:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:18:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:18:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:18:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:18:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:18:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:18:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:18:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:18:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:18:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:18:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:18:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:18:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:19:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:19:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:19:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:19:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:19:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:19:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:19:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:19:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:19:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:19:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:19:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:19:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:19:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:19:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:19:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:19:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:19:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:19:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:19:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:19:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:19:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:19:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:19:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:19:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:19:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:19:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:19:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:19:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:19:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:19:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:20:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:20:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:20:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:20:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:20:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:20:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:20:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:20:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:20:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:20:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:20:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:20:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:20:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:20:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:20:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:20:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:20:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:20:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:20:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:20:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:20:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:20:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:20:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:20:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:20:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:20:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:20:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:20:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:20:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:20:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:21:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:21:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:21:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:21:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:21:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:21:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:21:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:21:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:21:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:21:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:21:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:21:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:21:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:21:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:21:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:21:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:21:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:21:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:21:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:21:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:21:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:21:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:21:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:21:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:21:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:21:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:21:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:21:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:21:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:21:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:22:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:22:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:22:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:22:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:22:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:22:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:22:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:22:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:22:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:22:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:22:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:22:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:22:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:22:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:22:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:22:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:22:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:22:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:22:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:22:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:22:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:22:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:22:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:22:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:22:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:22:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:22:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:22:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:22:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:22:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:23:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:23:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:23:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:23:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:23:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:23:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:23:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:23:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:23:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:23:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:23:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:23:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:23:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:23:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:23:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:23:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:23:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:23:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:23:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:23:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:23:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:23:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:23:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:23:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:23:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:23:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:23:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:23:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:23:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:23:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:24:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:24:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:24:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:24:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:24:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:24:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:24:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:24:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:24:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:24:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:24:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:24:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:24:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:24:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:24:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:24:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:24:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:24:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:24:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:24:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:24:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:24:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:24:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:24:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:24:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:24:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:24:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:24:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:24:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:24:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:25:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:25:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:25:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:25:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:25:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:25:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:25:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:25:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:25:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:25:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:25:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:25:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:25:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:25:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:25:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:25:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:25:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:25:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:25:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:25:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:25:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:25:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:25:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:25:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:25:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:25:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:25:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:25:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:25:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:25:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:26:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:26:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:26:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:26:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:26:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:26:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:26:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:26:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:26:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:26:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:26:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:26:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:26:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:26:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:26:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:26:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:26:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:26:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:26:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:26:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:26:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:26:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:26:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:26:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:26:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:26:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:26:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:26:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:26:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:26:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:27:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:27:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:27:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:27:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:27:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:27:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:27:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:27:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:27:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:27:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:27:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:27:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:27:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:27:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:27:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:27:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:27:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:27:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:27:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:27:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:27:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:27:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:27:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:27:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:27:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:27:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:27:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:27:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:27:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:27:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:28:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:28:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:28:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:28:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:28:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:28:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:28:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:28:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:28:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:28:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:28:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:28:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:28:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:28:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:28:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:28:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:28:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:28:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:28:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:28:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:28:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:28:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:28:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:28:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:28:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:28:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:28:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:28:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:28:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:28:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:29:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:29:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:29:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:29:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:29:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:29:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:29:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:29:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:29:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:29:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:29:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:29:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:29:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:29:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:29:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:29:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:29:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:29:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:29:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:29:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:29:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:29:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:29:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:29:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:29:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:29:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:29:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:29:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:29:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:29:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:30:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:30:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:30:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:30:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:30:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:30:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:30:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:30:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:30:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:30:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:30:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:30:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:30:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:30:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:30:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:30:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:30:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:30:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:30:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:30:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:30:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:30:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:30:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:30:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:30:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:30:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:30:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:30:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:30:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:30:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:31:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:31:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:31:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:31:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:31:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:31:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:31:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:31:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:31:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:31:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:31:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:31:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:31:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:31:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:31:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:31:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:31:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:31:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:31:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:31:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:31:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:31:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:31:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:31:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:31:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:31:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:31:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:31:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:31:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:31:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:32:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:32:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:32:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:32:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:32:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:32:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:32:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:32:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:32:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:32:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:32:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:32:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:32:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:32:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:32:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:32:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:32:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:32:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:32:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:32:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:32:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:32:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:32:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:32:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:32:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:32:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:32:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:32:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:32:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:32:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:33:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:33:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:33:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:33:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:33:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:33:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:33:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:33:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:33:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:33:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:33:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:33:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:33:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:33:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:33:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:33:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:33:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:33:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:33:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:33:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:33:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:33:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:33:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:33:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:33:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:33:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:33:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:33:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:33:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:33:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:34:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:34:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:34:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:34:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:34:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:34:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:34:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:34:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:34:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:34:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:34:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:34:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:34:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:34:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:34:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:34:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:34:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:34:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:34:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:34:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:34:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:34:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:34:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:34:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:34:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:34:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:34:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:34:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:34:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:34:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:35:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:35:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:35:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:35:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:35:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:35:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:35:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:35:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:35:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:35:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:35:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:35:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:35:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:35:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:35:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:35:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:35:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:35:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:35:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:35:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:35:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:35:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:35:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:35:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:35:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:35:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:35:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:35:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:35:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:35:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:36:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:36:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:36:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:36:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:36:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:36:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:36:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:36:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:36:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:36:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:36:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:36:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:36:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:36:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:36:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:36:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:36:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:36:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:36:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:36:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:36:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:36:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:36:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:36:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:36:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:36:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:36:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:36:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:36:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:36:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:37:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:37:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:37:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:37:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:37:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:37:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:37:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:37:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:37:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:37:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:37:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:37:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:37:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:37:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:37:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:37:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:37:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:37:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:37:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:37:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:37:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:37:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:37:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:37:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:37:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:37:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:37:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:37:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:37:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:37:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:38:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:38:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:38:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:38:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:38:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:38:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:38:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:38:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:38:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:38:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:38:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:38:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:38:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:38:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:38:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:38:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:38:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:38:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:38:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:38:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:38:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:38:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:38:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:38:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:38:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:38:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:38:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:38:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:38:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:38:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:39:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:39:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:39:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:39:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:39:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:39:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:39:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:39:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:39:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:39:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:39:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:39:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:39:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:39:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:39:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:39:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:39:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:39:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:39:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:39:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:39:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:39:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:39:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:39:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:39:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:39:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:39:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:39:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:39:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:39:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:40:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:40:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:40:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:40:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:40:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:40:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:40:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:40:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:40:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:40:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:40:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:40:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:40:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:40:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:40:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:40:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:40:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:40:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:40:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:40:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:40:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:40:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:40:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:40:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:40:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:40:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:40:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:40:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:40:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:40:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:41:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:41:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:41:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:41:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:41:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:41:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:41:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:41:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:41:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:41:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:41:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:41:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:41:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:41:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:41:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:41:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:41:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:41:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:41:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:41:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:41:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:41:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:41:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:41:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:41:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:41:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:41:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:41:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:41:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:41:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:42:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:42:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:42:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:42:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:42:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:42:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:42:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:42:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:42:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:42:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:42:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:42:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:42:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:42:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:42:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:42:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:42:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:42:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:42:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:42:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:42:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:42:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:42:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:42:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:42:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:42:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:42:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:42:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:42:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:42:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:43:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:43:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:43:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:43:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:43:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:43:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:43:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:43:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:43:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:43:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:43:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:43:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:43:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:43:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:43:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:43:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:43:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:43:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:43:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:43:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:43:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:43:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:43:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:43:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:43:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:43:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:43:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:43:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:43:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:43:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:44:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:44:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:44:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:44:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:44:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:44:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:44:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:44:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:44:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:44:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:44:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:44:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:44:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:44:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:44:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:44:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:44:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:44:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:44:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:44:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:44:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:44:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:44:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:44:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:44:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:44:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:44:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:44:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:44:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:44:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:45:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:45:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:45:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:45:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:45:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:45:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:45:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:45:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:45:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:45:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:45:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:45:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:45:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:45:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:45:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:45:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:45:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:45:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:45:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:45:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:45:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:45:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:45:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:45:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:45:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:45:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:45:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:45:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:45:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:45:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:46:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:46:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:46:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:46:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:46:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:46:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:46:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:46:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:46:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:46:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:46:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:46:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:46:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:46:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:46:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:46:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:46:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:46:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:46:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:46:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:46:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:46:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:46:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:46:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:46:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:46:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:46:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:46:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:46:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:46:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:47:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:47:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:47:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:47:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:47:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:47:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:47:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:47:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:47:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:47:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:47:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:47:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:47:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:47:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:47:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:47:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:47:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:47:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:47:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:47:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:47:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:47:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:47:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:47:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:47:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:47:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:47:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:47:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:47:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:47:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:48:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:48:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:48:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:48:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:48:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:48:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:48:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:48:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:48:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:48:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:48:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:48:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:48:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:48:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:48:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:48:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:48:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:48:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:48:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:48:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:48:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:48:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:48:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:48:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:48:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:48:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:48:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:48:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:48:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:48:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:49:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:49:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:49:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:49:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:49:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:49:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:49:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:49:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:49:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:49:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:49:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:49:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:49:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:49:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:49:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:49:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:49:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:49:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:49:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:49:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:49:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:49:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:49:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:49:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:49:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:49:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:49:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:49:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:49:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:49:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:50:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:50:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:50:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:50:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:50:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:50:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:50:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:50:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:50:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:50:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:50:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:50:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:50:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:50:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:50:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:50:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:50:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:50:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:50:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:50:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:50:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:50:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:50:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:50:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:50:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:50:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:50:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:50:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:50:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:50:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:51:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:51:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:51:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:51:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:51:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:51:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:51:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:51:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:51:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:51:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:51:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:51:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:51:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:51:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:51:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:51:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:51:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:51:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:51:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:51:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:51:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:51:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:51:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:51:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:51:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:51:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:51:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:51:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:51:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:51:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:52:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:52:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:52:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:52:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:52:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:52:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:52:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:52:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:52:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:52:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:52:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:52:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:52:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:52:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:52:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:52:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:52:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:52:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:52:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:52:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:52:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:52:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:52:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:52:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:52:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:52:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:52:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:52:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:52:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:52:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:53:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:53:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:53:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:53:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:53:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:53:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:53:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:53:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:53:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:53:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:53:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:53:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:53:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:53:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:53:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:53:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:53:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:53:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:53:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:53:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:53:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:53:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:53:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:53:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:53:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:53:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:53:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:53:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:53:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:53:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:54:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:54:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:54:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:54:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:54:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:54:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:54:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:54:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:54:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:54:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:54:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:54:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:54:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:54:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:54:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:54:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:54:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:54:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:54:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:54:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:54:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:54:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:54:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:54:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:54:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:54:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:54:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:54:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:54:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:54:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:55:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:55:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:55:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:55:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:55:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:55:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:55:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:55:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:55:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:55:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:55:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:55:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:55:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:55:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:55:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:55:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:55:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:55:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:55:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:55:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:55:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:55:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:55:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:55:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:55:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:55:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:55:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:55:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:55:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:55:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:56:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:56:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:56:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:56:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:56:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:56:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:56:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:56:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:56:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:56:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:56:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:56:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:56:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:56:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:56:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:56:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:56:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:56:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:56:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:56:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:56:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:56:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:56:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:56:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:56:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:56:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:56:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:56:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:56:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:56:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:57:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:57:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:57:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:57:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:57:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:57:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:57:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:57:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:57:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:57:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:57:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:57:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:57:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:57:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:57:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:57:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:57:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:57:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:57:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:57:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:57:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:57:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:57:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:57:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:57:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:57:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:57:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:57:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:57:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:57:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:58:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:58:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:58:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:58:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:58:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:58:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:58:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:58:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:58:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:58:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:58:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:58:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:58:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:58:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:58:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:58:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:58:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:58:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:58:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:58:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:58:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:58:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:58:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:58:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:58:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:58:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:58:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:58:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:58:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:58:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:59:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:59:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:59:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:59:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:59:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:59:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:59:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:59:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:59:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:59:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:59:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:59:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:59:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:59:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:59:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:59:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:59:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:59:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:59:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:59:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:59:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:59:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:59:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:59:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:59:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T17:59:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T17:59:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T17:59:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T17:59:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T17:59:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:00:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:00:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:00:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:00:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:00:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:00:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:00:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:00:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:00:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:00:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:00:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:00:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:00:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:00:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:00:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:00:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:00:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:00:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:00:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:00:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:00:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:00:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:00:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:00:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:00:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:00:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:00:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:00:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:00:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:00:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:01:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:01:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:01:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:01:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:01:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:01:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:01:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:01:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:01:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:01:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:01:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:01:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:01:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:01:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:01:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:01:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:01:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:01:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:01:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:01:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:01:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:01:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:01:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:01:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:01:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:01:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:01:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:01:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:01:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:01:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:02:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:02:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:02:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:02:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:02:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:02:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:02:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:02:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:02:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:02:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:02:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:02:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:02:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:02:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:02:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:02:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:02:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:02:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:02:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:02:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:02:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:02:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:02:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:02:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:02:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:02:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:02:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:02:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:02:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:02:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:03:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:03:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:03:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:03:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:03:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:03:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:03:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:03:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:03:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:03:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:03:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:03:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:03:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:03:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:03:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:03:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:03:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:03:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:03:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:03:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:03:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:03:49Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:03:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:03:49Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:03:49Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:03:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:03:59Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:03:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:03:59Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:03:59Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:04:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:04:09Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:04:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:04:09Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:04:09Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:04:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:04:19Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:04:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:04:19Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:04:19Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:04:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:04:29Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:04:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:04:29Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:04:29Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Temperature\",\"metric_value\":42}","timestamp":"2025-08-22T18:04:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Pressure\",\"metric_value\":60}","timestamp":"2025-08-22T18:04:39Z"}
+{"level":"WARNING","message":"Threshold exceeded for metric 'Pressure'","timestamp":"2025-08-22T18:04:39Z"}
+{"level":"INFO","message":"Metric processed: {\"metric_name\":\"Humidity\",\"metric_value\":30}","timestamp":"2025-08-22T18:04:39Z"}
+{"level":"INFO","message":"Check finished. Rows processed: 3, Alerts: 1.","timestamp":"2025-08-22T18:04:39Z"}
