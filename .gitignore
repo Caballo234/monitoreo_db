@@ -1,0 +1,10 @@
+# Archivos compilados
+build/
+*.o
+
+# Log de la aplicación
+monitor_service.log
+error_log.txt
+
+# Archivos del editor
+.vscode/
