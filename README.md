@@ -79,5 +79,27 @@ curl http://localhost:8080/status
     ```bash
     docker exec -it monitor_service tail -f monitor_service.log
     ```
-3.  **Detener el servicio:**
+
+### 3. Probar la Recarga Dinámica de Configuración 
+
+Para verificar que el servicio puede recargar su configuración sin necesidad de reiniciarse, sigue estos pasos mientras los contenedores están en ejecución:
+
+1.  **Modifica el archivo de configuración:**
+    Abre el archivo local `config/config.json` y modifica uno o más valores. Por ejemplo, para que las consultas sean más rápidas y el umbral de alerta más alto:
+    * Cambia `"query_interval"` de `10` a `3`.
+    * Cambia `"threshold"` de `50` a `70`.
+
+2.  **Envía la señal `SIGHUP`:**
+    Abre una nueva terminal y ejecuta el siguiente comando para enviar la señal de recarga al contenedor. El nombre `monitor_service` se toma del archivo `docker-compose.yml`.
+    ```bash
+    docker exec -it monitor_service kill -SIGHUP 1
+    ```
+
+3.  **Verifica el resultado:**
+    Observa los logs del servicio (ya sea en la terminal donde corre `docker compose up` o viendo el archivo de log con `docker exec -it monitor_service cat monitor_service.log`). Notarás dos cambios:
+    * Aparecerá un log indicando que la configuración se está recargando.
+    * Las consultas a la base de datos ahora se ejecutarán cada **3 segundos** en lugar de 10.
+    * Ya no aparecerán alertas de `WARNING` para la métrica "Pressure", porque su valor (60) es ahora menor que el nuevo umbral (70).
+
+### 4.  **Detener el servicio:**
     Para detener ambos contenedores de forma ordenada, regresa a la terminal donde ejecutaste docker compose up y presiona Ctrl + C.
